@@ -1,5 +1,5 @@
-## Oiii eu sou a Maria Eduarda Guedes.
-# Estudante de Ciência da Computação no IFSP e estagiária de Data Science na Dadosfera!
+# Oie, eu sou a Maria Eduarda Guedes.
+## Estudante de Ciência da Computação no IFSP e estagiária de Data Science na Dadosfera!
 <div align="center">
   <a href="https://github.com/mariaeduaruda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaeduaruda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
