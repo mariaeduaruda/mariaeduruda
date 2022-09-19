@@ -1,5 +1,5 @@
-<br>
 # Oie me chamo Maria Eduarda Guedes.
+<br>
 **Sou estudante de Ciência da Computação no IFSP e estagiária de Data Science na Dadosfera!**</br>
 <div align="center">
   <a href="https://github.com/mariaeduaruda">
