@@ -1,4 +1,5 @@
-## Oiii eu sou a Maria Eduarda Guedes, estagiaria de Data Science na Dadosfera!
+## Oiii eu sou a Maria Eduarda Guedes.
+# Estudante de Ciência da Computação no IFSP e estagiária de Data Science na Dadosfera!
 <div align="center">
   <a href="https://github.com/mariaeduaruda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaeduaruda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -6,8 +7,11 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+ ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+ ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
+ ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
 </div>
   
   ##
